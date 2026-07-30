@@ -22,7 +22,7 @@
     "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
     "architecture": ["Distributed Systems", "Event-Driven Pipelines", "LLMOps"],
     "backend": ["gRPC", "GraphQL", "Redis", "FastAPI", "PostgreSQL"],
-    "infrastructure": ["AWS", "Docker", "Terraform", "CI/CD"]
+    "infrastructure": ["AWS", "Docker", "CI/CD"]
   },
   "user_status": {
     "base": "Las Vegas Metropolitan Area",
