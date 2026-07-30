@@ -12,11 +12,11 @@
   "system_message": "Follow the white rabbit 🐇",
   "user_name": "Ivan",
   "user_about": {
-    "fun_fact": "Started coding at 12 after watching 'Jobs' — later learned Steve Jobs never coded a line for Apple",
-    "random_skill": "80 wpm touch typing, grinding toward 100",
-    "hobbies": ["FPV Drones", "Motorcycles"],
     "interests": ["Blockchain", "FinTech", "Scalable Infrastructure"],
     "languages_spoken": ["English", "Russian"]
+    "fun_fact": "Started coding at 12 after 'Jobs' — later learned Steve Jobs never coded a line for Apple",
+    "random_skill": "80 wpm touch typing, grinding toward 100",
+    "hobbies": ["FPV Drones", "Motorcycles"],
   },
   "user_stack": {
     "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
