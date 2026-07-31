@@ -30,8 +30,8 @@
     "vibe": "High-ownership builder delivering enterprise-grade solutions"
   },
   "user_contact": {
-    "email": "ivan.iv.buianov@gmail.com",
-    "linkedin": "linkedin.com/in/vanyab28"
+    "email": "ledger.bin@gmail.com",
+    "linkedin": "linkedin.com/in/ledger-bin"
   }
 }
 ```
