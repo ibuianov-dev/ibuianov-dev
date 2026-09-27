@@ -7,3 +7,4 @@
 ╚═════╝    ╚═════╝   ╚═╝  ╚══════╝  ╚═════╝   ╚═╝  ╚═╝  ╚═══╝   ╚═════╝   ╚═╝  ╚═╝  ╚═╝
 ```
 <img src="disc.gif" width="100%" alt="disc" />
+<img src="cube.gif" width="100%" alt="cube" />
